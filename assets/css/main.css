@@ -3874,3 +3874,20 @@
 	.redux-logo {
 		height: 50px;
 	}
+
+	.all-skill-icons {
+		display: -webkit-flex; /* Safari */
+    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    display: flex;
+    flex-wrap: wrap;
+		justify-content: space-around;
+	}
+
+	.center-icon {
+		display: flex;
+		justify-content: center;
+	}
+
+	.style-skills p {
+		text-align: center;
+	}
