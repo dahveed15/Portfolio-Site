@@ -3891,3 +3891,11 @@
 	.style-skills p {
 		text-align: center;
 	}
+
+	.smaller-italics {
+		font-size: 18px;
+	}
+
+  .education-dates {
+		margin-bottom: 10px;
+	}
